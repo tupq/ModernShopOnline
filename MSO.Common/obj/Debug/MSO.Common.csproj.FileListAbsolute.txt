@@ -1,0 +1,5 @@
+D:\Projects\MOS\ModernShopOnline\MSO.Common\bin\Debug\MSO.Common.dll
+D:\Projects\MOS\ModernShopOnline\MSO.Common\bin\Debug\MSO.Common.pdb
+D:\Projects\MOS\ModernShopOnline\MSO.Common\obj\Debug\MSO.Common.csprojResolveAssemblyReference.cache
+D:\Projects\MOS\ModernShopOnline\MSO.Common\obj\Debug\MSO.Common.dll
+D:\Projects\MOS\ModernShopOnline\MSO.Common\obj\Debug\MSO.Common.pdb
