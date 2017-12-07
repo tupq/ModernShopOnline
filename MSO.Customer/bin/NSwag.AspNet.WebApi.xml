@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NSwag.AspNet.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute">
+            <summary>Handles thrown exceptions from action methods and serializes them with the correct HTTP status code.</summary>
+        </member>
+        <member name="M:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute.#ctor(System.Type[])">
+            <summary>Initializes a new instance of the <see cref="T:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute"/> class.</summary>
+            <param name="exceptionTypes">The serialized exception types.</param>
+        </member>
+        <member name="M:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute.#ctor(System.Boolean,System.Type[])">
+            <summary>Initializes a new instance of the <see cref="T:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute"/> class.</summary>
+            <param name="hideStackTrace">If set to <c>true</c> the serializer hides stack trace (i.e. sets the StackTrace to 'HIDDEN').</param>
+            <param name="exceptionTypes">The serialized exception types.</param>
+        </member>
+        <member name="M:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute.#ctor(System.Boolean,System.Collections.Generic.IDictionary{System.String,System.Reflection.Assembly},System.Type[])">
+            <summary>Initializes a new instance of the <see cref="T:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute"/> class.</summary>
+            <param name="hideStackTrace">If set to <c>true</c> the serializer hides stack trace (i.e. sets the StackTrace to 'HIDDEN').</param>
+            <param name="searchedNamespaces">The namespaces and assemblies to search for exception types.</param>
+            <param name="exceptionTypes">The serialized exception types.</param>
+        </member>
+        <member name="M:NSwag.AspNet.WebApi.JsonExceptionFilterAttribute.OnActionExecuted(System.Web.Http.Filters.HttpActionExecutedContext)">
+            <summary>Occurs after the action method is invoked.</summary>
+            <param name="context">The action executed context.</param>
+        </member>
+    </members>
+</doc>
