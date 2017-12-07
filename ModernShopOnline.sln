@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSO.Customer", "MSO.Custome
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSO.CustomerSite", "MSO.CustomerSite\MSO.CustomerSite.csproj", "{57A80F03-B2F2-4598-B292-637400AB97FF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{51D570B3-3E5C-4828-84C4-30A357E92C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSO.Data", "MSO.Data\MSO.Data.csproj", "{82962533-105B-424C-BE76-50DF1FB21DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{57A80F03-B2F2-4598-B292-637400AB97FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57A80F03-B2F2-4598-B292-637400AB97FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57A80F03-B2F2-4598-B292-637400AB97FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82962533-105B-424C-BE76-50DF1FB21DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82962533-105B-424C-BE76-50DF1FB21DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82962533-105B-424C-BE76-50DF1FB21DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82962533-105B-424C-BE76-50DF1FB21DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +52,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{68A562F7-4290-44DE-857F-440596682E06} = {9B6B0DA7-355A-44A0-B7BC-BBD4C6862AF1}
 		{592FEBAA-22E3-469C-AEE6-B394C9687752} = {59D1F163-A1B1-4B43-90E0-6F6F694F4A3E}
+		{82962533-105B-424C-BE76-50DF1FB21DC2} = {51D570B3-3E5C-4828-84C4-30A357E92C12}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,10 @@
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\MSO.Data.dll.config
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\MSO.Data.dll
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\MSO.Data.pdb
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\EntityFramework.dll
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\EntityFramework.xml
+D:\Projects\OnlineShopPortal\MSO.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\OnlineShopPortal\MSO.Data\obj\Debug\MSO.Data.csprojResolveAssemblyReference.cache
+D:\Projects\OnlineShopPortal\MSO.Data\obj\Debug\MSO.Data.dll
+D:\Projects\OnlineShopPortal\MSO.Data\obj\Debug\MSO.Data.pdb
