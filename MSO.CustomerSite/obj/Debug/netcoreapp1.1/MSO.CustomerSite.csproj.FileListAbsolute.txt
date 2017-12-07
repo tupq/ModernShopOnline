@@ -1,0 +1,9 @@
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\bin\Debug\netcoreapp1.1\MSO.CustomerSite.deps.json
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\bin\Debug\netcoreapp1.1\MSO.CustomerSite.runtimeconfig.json
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\bin\Debug\netcoreapp1.1\MSO.CustomerSite.runtimeconfig.dev.json
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\bin\Debug\netcoreapp1.1\MSO.CustomerSite.dll
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\bin\Debug\netcoreapp1.1\MSO.CustomerSite.pdb
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\obj\Debug\netcoreapp1.1\MSO.CustomerSite.csprojResolveAssemblyReference.cache
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\obj\Debug\netcoreapp1.1\MSO.CustomerSite.AssemblyInfo.cs
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\obj\Debug\netcoreapp1.1\MSO.CustomerSite.dll
+D:\Projects\OnlineShopPortal\MSO.CustomerSite\obj\Debug\netcoreapp1.1\MSO.CustomerSite.pdb
